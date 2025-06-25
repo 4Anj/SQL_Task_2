@@ -18,7 +18,6 @@ Members: Stores member information.
 Borrow: Tracks which member borrowed which book, and when.
 
 ## INSERT Commands
-
 Insert into Borrow values(60, 1, 9849, '2025/05/09', '2025/06/11');
 Insert into Borrow values(84, 1, 8216, '2025/06/15', '2025/07/08');
 Insert into Borrow values(70, 3, 9849, '2023/12/17', '2024/01/11');
