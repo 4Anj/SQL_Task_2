@@ -1,4 +1,4 @@
-Use LibraryDM
+Use LibraryDM;
 
 Insert into Authors values(101, "Pushkal Sharma");
 Insert into Authors values(102, "Anjana Nair");
